@@ -1,2 +1,2 @@
-# jJava Environment Setup & First Executable Program
+#Java Environment Setup & First Executable Program
 
